@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvrocess",
+        "uuid": 16156194,
+        "checksum": "k8umen"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
